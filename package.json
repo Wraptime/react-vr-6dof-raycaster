@@ -1,0 +1,29 @@
+{
+  "name": "react-vr-6dof-raycaster",
+  "version": "0.0.1",
+  "description": "A 6-DOF raycaster for controllers in React VR (Oculus Touch & Vive Controllers)",
+  "main": "6dof.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wraptime/react-vr-6dof-raycaster.git"
+  },
+  "keywords": [
+    "react",
+    "vr",
+    "vive",
+    "oculus",
+    "touch",
+    "controllers",
+    "raycaster",
+    "6dof"
+  ],
+  "author": "Wraptime Ltd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wraptime/react-vr-6dof-raycaster/issues"
+  },
+  "homepage": "https://github.com/Wraptime/react-vr-6dof-raycaster#readme"
+}
